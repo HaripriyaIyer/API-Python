@@ -1,7 +1,7 @@
 # API-Python
 Repo containing python code to operate with various APIs.
 
-This repository contains python codes for various API operations.
+The repository contains API call codes on Google Drive API and Facebook API.
 
 The code mainly contains snippets about
 1. How to make the API call.
