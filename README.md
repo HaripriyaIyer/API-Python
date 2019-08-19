@@ -1,5 +1,6 @@
 # API-Python
-Repo containing python code to operate with various APIs
+Repo containing python code to operate with various APIs.
+
 This repository contains python codes for various API operations.
 
 The code mainly contains snippets about
